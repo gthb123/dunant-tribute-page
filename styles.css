@@ -1,0 +1,17 @@
+#title, #subtitle, #img-caption {
+    text-align: center;
+}
+
+#image {
+    margin: 0 auto;
+    max-width: 100%;
+    display: block;
+}
+
+#img-caption {
+    margin: 16px;
+}
+
+#dunant-article {
+    font-style: normal;
+}
